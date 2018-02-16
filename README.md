@@ -2,7 +2,7 @@
 
 ## Scenario
 
-* Research Dependency Injection in depth.
+* Research in Dependency Injection in depth.
 * Implemented software to demonstrate the Dependency Injectio in practice.
 
  * The (Dependency Injection.pdf) file contains the solution.
